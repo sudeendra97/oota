@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "219854336893",
+    "project_id": "oota-dcecb",
+    "storage_bucket": "oota-dcecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219854336893:android:6085c53679ccf0af919214",
+        "android_client_info": {
+          "package_name": "com.Oota.oota_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219854336893-5evhthhgs1nu014bvouigf95j17747oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqi23KyvVWFjd93ywRp8uNPFub91gY-mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219854336893-5evhthhgs1nu014bvouigf95j17747oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219854336893:android:deb6039e45851bfa919214",
+        "android_client_info": {
+          "package_name": "com.oota_consumer.oota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219854336893-5evhthhgs1nu014bvouigf95j17747oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqi23KyvVWFjd93ywRp8uNPFub91gY-mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219854336893-5evhthhgs1nu014bvouigf95j17747oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
